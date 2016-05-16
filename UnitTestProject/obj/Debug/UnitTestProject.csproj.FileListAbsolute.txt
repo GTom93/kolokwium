@@ -1,0 +1,7 @@
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\bin\Debug\Kolos.exe
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\bin\Debug\Kolos.pdb
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Tom\Source\Repos\Kolos\UnitTestProject\obj\Debug\UnitTestProject.pdb
